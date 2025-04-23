@@ -5,7 +5,7 @@
 ### 🔥 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Charles Mwangi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&theme=radical&hide_border=false&layout=compact" height="200" alt="Top Languages" />
 </p>
 
